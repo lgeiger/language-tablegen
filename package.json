@@ -1,0 +1,14 @@
+{
+  "name": "language-tablegen",
+  "version": "0.0.0",
+  "description": "Syntax Highlighting for LLVM TableGen",
+  "keywords": [
+    "LLVM",
+    "TableGen"
+  ],
+  "repository": "https://github.com/lgeiger/language-tablegen",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
