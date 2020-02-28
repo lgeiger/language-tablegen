@@ -9,7 +9,7 @@ patterns: [
     include: "#comments"
   }
   {
-    match: "\\b(def|let|in|code|dag|string|list|bits|bit|field|include|defm|foreach|class|multiclass|int)\\b"
+    match: "\\b(def|let|in|code|dag|string|list|bits|bit|field|include|defm|foreach|class|multiclass|int|defvar|defset|if|then|else)\\b"
     name: "keyword.control.tablegen"
   }
   {
